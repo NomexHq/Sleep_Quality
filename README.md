@@ -18,13 +18,13 @@ Sleep quality is based on four measurements:
 Data is collected from the Sleep Cycle app. Sleep Cycle app uses the accelerometer inside my iPhone to detect movements during sleep and detects patterns.
 
 # Variables:
-Sleep_quality	
-Time_in_bed	
-Activity_steps	
-Start_time	
-Ate_late	
-Drank_coffee	
-Stressful_day
+* Sleep_quality	
+* Time_in_bed	
+* Activity_steps	
+* Start_time	
+* Ate_late	
+* Drank_coffee	
+* Stressful_day
 
 # References:
 https://support.sleepcycle.com/hc/en-us/articles/206704659-How-is-Sleep-Quality-calculated-
