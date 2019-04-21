@@ -53,7 +53,7 @@ Residuals plotted Residuals_vs_Fitted.png
 QQplot testing
 ![reg3](Pics/NormalQQ.png)<br>
 
-# Takeaways
+# Final takeaways
 Results are inconclusive becasue predictors are most likely biased <br>
 Predictors that produced significant p-values are categotical variables :/ <br>
 Need to get more data <br>
