@@ -2,7 +2,7 @@
 An attempt to understand under what conditions I sleep better via application of statistical techniques and linear models
 
 # Question I am trying to answer
-Which of my daily activities are ascociated with better sleep quality?
+Which of my daily activities are associated with better sleep quality?
 
 # Target variable
 Sleep quality index
@@ -14,7 +14,7 @@ Sleep quality is based on four measurements:
 3. Consistency of the sleep.
 4. Amount of times where the app registered you as fully awake. (Sleepcycle, 2019)
 
-# Data scource
+# Data source
 Data is collected from the Sleep Cycle app <br>
 Sleep Cycle app uses the accelerometer inside my iPhone to detect movements during sleep and detects patterns
 
@@ -43,7 +43,7 @@ Questions asked: <br>
 Is my sleep quality worse than the average sleep quality? <br>
 Is my sleep duration is less than the average sleep duration? <br>
 
-Failed to reject the null hypothesis (avarage reported = my avarage) in both cases
+Failed to reject the null hypothesis (average reported = my average) in both cases
 
 # Multivariable regression
 ![reg1](Pics/Regression_final.png)<br>
@@ -55,8 +55,8 @@ QQplot testing
 ![reg3](Pics/NormalQQ.png)<br>
 
 # Final takeaways
-Results are inconclusive becasue predictors are most likely biased <br>
-Predictors that produced significant p-values are categotical variables :/ <br>
+Results are inconclusive because predictors are most likely biased <br>
+Predictors that produced significant p-values are categorical variables :/ <br>
 Need to get more data <br>
 Improve model specifications (get more variables and understand relationship between them better) <br>
 
