@@ -15,7 +15,8 @@ Sleep quality is based on four measurements:
 4. Amount of times where the app registered you as fully awake. (Sleepcycle, 2019)
 
 # Data scource
-Data is collected from the Sleep Cycle app. Sleep Cycle app uses the accelerometer inside my iPhone to detect movements during sleep and detects patterns
+Data is collected from the Sleep Cycle app <br> 
+Sleep Cycle app uses the accelerometer inside my iPhone to detect movements during sleep and detects patterns
 
 # Variables:
 * Sleep_quality	
@@ -28,11 +29,11 @@ Data is collected from the Sleep Cycle app. Sleep Cycle app uses the acceleromet
 
 # EDA takeaways
 Analysis revealed interesting patterns based on the date of week:
-![EDApic1](Pic/Quality of sleep by day of week.png)
+![EDApic1](Pic/Quality of sleep by day of week.png)<br>
 Overall, confirms intuition but good Tuesday's quality is a surprise 
 Always thought that Sunday sleep was bad, but data showed otherwise
 
-![EDApic2](Pic/Sleep quality by times going to bed.png)
+![EDApic2](Pic/Sleep quality by times going to bed.png)<br>
 Going to bed earlier seems to be associated with better sleep quality
 However, start time is related to duration of sleep, which is used to calculate the index.
 
@@ -44,13 +45,13 @@ Is my sleep duration is less than the average sleep duration?
 Failed to reject the null hypothesis (avarage reported = my avarage) in both cases
 
 # Multivariable regression
-![reg1](Pic/Regression_final.png)
+![reg1](Pic/Regression_final.png)<br>
 
 Residuals plotted Residuals_vs_Fitted.png
-![reg2](Pic/Residuals_vs_Fitted.png)
+![reg2](Pic/Residuals_vs_Fitted.png)<br>
 
 QQplot testing
-![reg3](Pic/NormalQQ.png)
+![reg3](Pic/NormalQQ.png)<br>
 
 # Takeaways
 Results are inconclusive becasue predictors are most likely biased
