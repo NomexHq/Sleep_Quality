@@ -15,7 +15,7 @@ Sleep quality is based on four measurements:
 4. Amount of times where the app registered you as fully awake. (Sleepcycle, 2019)
 
 # Data scource
-Data is collected from the Sleep Cycle app 
+Data is collected from the Sleep Cycle app <br>
 Sleep Cycle app uses the accelerometer inside my iPhone to detect movements during sleep and detects patterns
 
 # Variables:
@@ -38,9 +38,9 @@ Going to bed earlier seems to be associated with better sleep quality <br>
 However, start time is related to duration of sleep, which is used to calculate the index.
 
 # Hypothesis testing
-QUestions asked:
-Is my sleep quality worse than the average sleep quality?
-Is my sleep duration is less than the average sleep duration?
+QUestions asked: <br> 
+Is my sleep quality worse than the average sleep quality? <br>
+Is my sleep duration is less than the average sleep duration? <br>
 
 Failed to reject the null hypothesis (avarage reported = my avarage) in both cases
 
