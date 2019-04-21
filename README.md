@@ -1,11 +1,11 @@
 # Sleep_Quality
-An attempt to understand under what conditions I sleep better via application of statistical techniques and linear models.
+An attempt to understand under what conditions I sleep better via application of statistical techniques and linear models
 
-# Question I am trying to answer.
+# Question I am trying to answer
 Which of my daily activities are ascociated with better sleep quality?
 
-# Target variable.
-Sleep quality index.
+# Target variable
+Sleep quality index
 
 # How is Sleep Quality calculated? 
 Sleep quality is based on four measurements:
@@ -14,8 +14,8 @@ Sleep quality is based on four measurements:
 3. Consistency of the sleep.
 4. Amount of times where the app registered you as fully awake. (Sleepcycle, 2019)
 
-# Data scource.
-Data is collected from the Sleep Cycle app. Sleep Cycle app uses the accelerometer inside my iPhone to detect movements during sleep and detects patterns.
+# Data scource
+Data is collected from the Sleep Cycle app. Sleep Cycle app uses the accelerometer inside my iPhone to detect movements during sleep and detects patterns
 
 # Variables:
 * Sleep_quality	
@@ -25,6 +25,10 @@ Data is collected from the Sleep Cycle app. Sleep Cycle app uses the acceleromet
 * Ate_late	
 * Drank_coffee	
 * Stressful_day
+
+# EDA takeaways
+Analysis revealed interesting patterns based on the dat of week:
+!
 
 # References:
 https://support.sleepcycle.com/hc/en-us/articles/206704659-How-is-Sleep-Quality-calculated-
