@@ -36,7 +36,7 @@ Always thought that Sunday sleep was bad, but data showed otherwise <br>
 
 ![EDApic2](Pics/Times.png) <br>
 Going to bed earlier seems to be associated with better sleep quality <br>
-However, start time is related to duration of sleep, which is used to calculate the index ¯\_(ツ)_/¯
+However, start time is related to duration of sleep, which is used to calculate the index     ¯\_(ツ)_/¯
 
 # Hypothesis testing
 Questions asked: <br> 
