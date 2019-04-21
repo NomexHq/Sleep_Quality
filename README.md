@@ -38,7 +38,7 @@ Going to bed earlier seems to be associated with better sleep quality <br>
 However, start time is related to duration of sleep, which is used to calculate the index.
 
 # Hypothesis testing
-QUestions asked: <br> 
+Questions asked: <br> 
 Is my sleep quality worse than the average sleep quality? <br>
 Is my sleep duration is less than the average sleep duration? <br>
 
