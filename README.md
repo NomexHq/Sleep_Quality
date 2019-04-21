@@ -48,10 +48,10 @@ Failed to reject the null hypothesis (average reported = my average) in both cas
 # Multivariable regression
 ![reg1](Pics/Regression_final.png)<br>
 
-Residuals plotted Residuals_vs_Fitted.png
+
 ![reg2](Pics/Residuals_vs_Fitted.png)<br>
 
-QQplot testing
+
 ![reg3](Pics/NormalQQ.png)<br>
 
 # Final takeaways
