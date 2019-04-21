@@ -27,8 +27,35 @@ Data is collected from the Sleep Cycle app. Sleep Cycle app uses the acceleromet
 * Stressful_day
 
 # EDA takeaways
-Analysis revealed interesting patterns based on the dat of week:
-!
+Analysis revealed interesting patterns based on the date of week:
+![EDApic1](Pic/Quality of sleep by day of week.png)
+Overall, confirms intuition but good Tuesday's quality is a surprise 
+Always thought that Sunday sleep was bad, but data showed otherwise
+
+![EDApic2](Pic/Sleep quality by times going to bed.png)
+Going to bed earlier seems to be associated with better sleep quality
+However, start time is related to duration of sleep, which is used to calculate the index.
+
+# Hypothesis testing
+QUestions asked:
+Is my sleep quality worse than the average sleep quality?
+Is my sleep duration is less than the average sleep duration?
+
+Failed to reject the null hypothesis (avarage reported = my avarage) in both cases
+
+# Multivariable regression
+![reg1](Pic/Regression_final.png)
+
+Residuals plotted Residuals_vs_Fitted.png
+![reg2](Pic/Residuals_vs_Fitted.png)
+
+QQplot testing
+![reg3](Pic/NormalQQ.png)
+
+# Takeaways
+Results are inconclusive becasue predictors are most likely biased
+Need to get more data
+Improve model specifications (get more variables and understand relationship between them better)
 
 # References:
 https://support.sleepcycle.com/hc/en-us/articles/206704659-How-is-Sleep-Quality-calculated-
