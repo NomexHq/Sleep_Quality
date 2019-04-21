@@ -28,9 +28,10 @@ Sleep Cycle app uses the accelerometer inside my iPhone to detect movements duri
 * Stressful_day
 
 # EDA takeaways
-Analysis revealed interesting patterns based on the date of week: <br>
+Analysis revealed interesting patterns: <br>
+
 ![EDApic1](Pics/Day.png) <br>
-Overall, confirms intuition but good Tuesday's quality is a surprise <br>
+Overall, confirms my intuition but good Tuesday's quality is a surprise <br>
 Always thought that Sunday sleep was bad, but data showed otherwise <br>
 
 ![EDApic2](Pics/Times.png) <br>
