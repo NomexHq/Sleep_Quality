@@ -28,13 +28,13 @@ Sleep Cycle app uses the accelerometer inside my iPhone to detect movements duri
 * Stressful_day
 
 # EDA takeaways
-Analysis revealed interesting patterns based on the date of week:
-![EDApic1](Pics/Quality of sleep by day of week.png) 
-Overall, confirms intuition but good Tuesday's quality is a surprise 
-Always thought that Sunday sleep was bad, but data showed otherwise
+Analysis revealed interesting patterns based on the date of week: <br>
+![EDApic1](Pics/Quality of sleep by day of week.png) <br>
+Overall, confirms intuition but good Tuesday's quality is a surprise <br>
+Always thought that Sunday sleep was bad, but data showed otherwise <br>
 
-![EDApic2](Pics/Sleep quality by times going to bed.png) 
-Going to bed earlier seems to be associated with better sleep quality
+![EDApic2](Pics/Sleep quality by times going to bed.png) <br>
+Going to bed earlier seems to be associated with better sleep quality <br>
 However, start time is related to duration of sleep, which is used to calculate the index.
 
 # Hypothesis testing
@@ -54,9 +54,9 @@ QQplot testing
 ![reg3](Pics/NormalQQ.png)<br>
 
 # Takeaways
-Results are inconclusive becasue predictors are most likely biased
-Need to get more data
-Improve model specifications (get more variables and understand relationship between them better)
+Results are inconclusive becasue predictors are most likely biased <br>
+Need to get more data <br>
+Improve model specifications (get more variables and understand relationship between them better) <br>
 
 # References:
 https://support.sleepcycle.com/hc/en-us/articles/206704659-How-is-Sleep-Quality-calculated-
