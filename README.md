@@ -32,11 +32,11 @@ Analysis revealed interesting patterns: <br>
 
 ![EDApic1](Pics/Day.png) <br>
 Overall, confirms my intuition but good Tuesday's quality is a surprise <br>
-Always thought that Sunday sleep was bad, but data showed otherwise <br>
+Always thought that Sunday sleep was bad, but data showed otherwise <br> 
 
 ![EDApic2](Pics/Times.png) <br>
 Going to bed earlier seems to be associated with better sleep quality <br>
-However, start time is related to duration of sleep, which is used to calculate the index.
+However, start time is related to duration of sleep, which is used to calculate the index ¯\_(ツ)_/¯
 
 # Hypothesis testing
 Questions asked: <br> 
