@@ -55,6 +55,7 @@ QQplot testing
 
 # Takeaways
 Results are inconclusive becasue predictors are most likely biased <br>
+Predictors that produced significant p-values are categotical variables :/ <br>
 Need to get more data <br>
 Improve model specifications (get more variables and understand relationship between them better) <br>
 
