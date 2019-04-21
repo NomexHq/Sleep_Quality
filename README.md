@@ -15,7 +15,7 @@ Sleep quality is based on four measurements:
 4. Amount of times where the app registered you as fully awake. (Sleepcycle, 2019)
 
 # Data scource
-Data is collected from the Sleep Cycle app <br> 
+Data is collected from the Sleep Cycle app 
 Sleep Cycle app uses the accelerometer inside my iPhone to detect movements during sleep and detects patterns
 
 # Variables:
@@ -29,11 +29,11 @@ Sleep Cycle app uses the accelerometer inside my iPhone to detect movements duri
 
 # EDA takeaways
 Analysis revealed interesting patterns based on the date of week:
-![EDApic1](Pics/Quality of sleep by day of week.png)<br>
+![EDApic1](Pics/Quality of sleep by day of week.png) 
 Overall, confirms intuition but good Tuesday's quality is a surprise 
 Always thought that Sunday sleep was bad, but data showed otherwise
 
-![EDApic2](Pics/Sleep quality by times going to bed.png)<br>
+![EDApic2](Pics/Sleep quality by times going to bed.png) 
 Going to bed earlier seems to be associated with better sleep quality
 However, start time is related to duration of sleep, which is used to calculate the index.
 
