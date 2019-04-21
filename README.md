@@ -29,11 +29,11 @@ Sleep Cycle app uses the accelerometer inside my iPhone to detect movements duri
 
 # EDA takeaways
 Analysis revealed interesting patterns based on the date of week: <br>
-![EDApic1](Pics/Quality of sleep by day of week.png) <br>
+![EDApic1](Pics/Day.png) <br>
 Overall, confirms intuition but good Tuesday's quality is a surprise <br>
 Always thought that Sunday sleep was bad, but data showed otherwise <br>
 
-![EDApic2](Pics/Sleep quality by times going to bed.png) <br>
+![EDApic2](Pics/Times.png) <br>
 Going to bed earlier seems to be associated with better sleep quality <br>
 However, start time is related to duration of sleep, which is used to calculate the index.
 
